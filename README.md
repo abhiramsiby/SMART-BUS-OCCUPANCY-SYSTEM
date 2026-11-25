@@ -15,6 +15,7 @@ An Arduino-based bidirectional passenger counting system that tracks real-time s
 - Jumper wires and breadboard
 
 ## Pin Configuration
+![Arduino Pin and Wiring Diagram](assets/pin_diagram.png)
 
 | Component | Pin / Connection | Arduino Pin | Notes |
 | :--- | :--- | :--- | :--- |
